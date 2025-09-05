@@ -1,12 +1,29 @@
-# React + Vite
+# 🏠 Property Listings App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React + JSON Server project for managing property listings.  
+Features include:
+- List all properties (with **search** + **filter by type**)
+- Add new property
+- View property details in a modal
+- API powered by [json-server](https://github.com/typicode/json-server)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- **Frontend**: React (Vite)
+- **Backend**: JSON Server (Mock API)
+- **HTTP Client**: Axios
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Setup
+
+![App Screenshot](img/SS1.png)
+![App Screenshot](img/SS2.png)
+![App Screenshot](img/SS3.png)
+![App Screenshot](img/SS4.png)
+
+### 1. Clone Repo
+```bash
+git clone https://github.com/<your-username>/property-listings.git
+cd property-listings
