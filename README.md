@@ -18,10 +18,10 @@ Features include:
 
 ## 📂 Project Setup
 
-![App Screenshot](img/SS1.png)
-![App Screenshot](img/SS2.png)
-![App Screenshot](img/SS3.png)
-![App Screenshot](img/SS4.png)
+![App Screenshot]([img/SS1.png](https://github.com/mishraji654/property-app/blob/main/SS1.png))
+![App Screenshot]([img/SS2.png](https://github.com/mishraji654/property-app/blob/main/SS2.png))
+![App Screenshot]([img/SS3.png](https://github.com/mishraji654/property-app/blob/main/SS3.png))
+![App Screenshot]([img/SS4.png](https://github.com/mishraji654/property-app/blob/main/SS4.png))
 
 ### 1. Clone Repo
 ```bash
